@@ -13,6 +13,12 @@ body {
   flex-direction: column;
 }
 
+.appname {
+  font-weight: 800;
+  font-size: 48px;
+  color: #272f22
+}
+
 .container {
   width: 50%;
   background-color: #e2ffdb;
